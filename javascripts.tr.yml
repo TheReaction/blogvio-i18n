@@ -1,14 +1,14 @@
 # Desc: Add a Composition to your website first and check back tomorrow
-'Add a Composition to your website first and check back tomorrow': 'Add a Composition to your website first and check back tomorrow'
+'Add a Composition to your website first and check back tomorrow': 'İlk olarak sitene bir kompozisyon ekle ve yarın onu kontrol et.'
 
 # Desc: Add content
-'Add content': 'Add content'
+'Add content': 'İçerik ekleyin'
 
 # Desc: Add website
-'Add website': 'Add website'
+'Add website': 'Web sitesi ekleyin'
 
 # Desc: Add your first host now
-'Add your first host now': 'Add your first host now'
+'Add your first host now': 'İlk hostunuzu edinin'
 
 # Desc: All
 All: All
@@ -17,10 +17,10 @@ All: All
 'Any compositions embedded in it will stop working': 'Any compositions embedded in it will stop working'
 
 # Desc: Are you sure you want to delete this composition?
-'Are you sure you want to delete this composition?': 'Are you sure you want to delete this composition?'
+'Are you sure you want to delete this composition?': 'Bu kompozisyonu silmek istediğinize emin misiniz?'
 
 # Desc: Are you sure you want to remove this host?
-'Are you sure you want to remove this host?': 'Are you sure you want to remove this host?'
+'Are you sure you want to remove this host?': 'Bu hostu taşımak istediğinize emin misiniz?'
 
 # Desc: Audio
 Audio: Audio
@@ -29,16 +29,16 @@ Audio: Audio
 Back: Back
 
 # Desc: Based on %platform%
-'Based on %platform%': 'Based on %platform%'
+'Based on %platform%': '%platform% dan esinlendi.'
 
 # Desc: Changes saved successfully!
-'Changes saved successfully!': 'Changes saved successfully!'
+'Changes saved successfully!': 'Değişiklikler kaydedildi!'
 
 # Desc: Close
 Close: Close
 
 # Desc: Coming soon
-'Coming soon': 'Coming soon'
+'Coming soon': 'Yakında!'
 
 # Desc: Composition
 Composition: Composition
@@ -62,19 +62,19 @@ Delete: Delete
 Duplicate: Duplicate
 
 # Desc: Edit details
-'Edit details': 'Edit details'
+'Edit details': 'Detayları değiştir'
 
 # Desc: Embeds
 Embeds: Embeds
 
 # Desc: Forgot it?
-'Forgot it?': 'Forgot it?'
+'Forgot it?': 'Unuttunuz mu?'
 
 # Desc: Got it! What's next?
-'Got it! What''s next?': 'Got it! What''s next?'
+'Got it! What''s next?': 'Ona sahip olun! Sırada ne var?'
 
 # Desc: Great, you have created your first composition, where do you plan to embed it?
-'Great, you have created your first composition, where do you plan to embed it?': 'Great, you have created your first composition, where do you plan to embed it?'
+'Great, you have created your first composition, where do you plan to embed it?': 'Harika, ilk kompozisyonunuzu başarıyla tamamladınız, onu nereye yerleştirmeyi planlıyorsunuz?'
 
 # Desc: Impressions
 Impressions: Impressions
@@ -86,73 +86,73 @@ Impressions: Impressions
 'Impressions is the number of times a composition is seen by visitors to your site': 'Impressions is the number of times a composition is seen by visitors to your site'
 
 # Desc: Keep following %link% our blog %end_link% for updates
-'Keep following %link% our blog %end_link% for updates': 'Keep following %link% our blog %end_link% for updates'
+'Keep following %link% our blog %end_link% for updates': 'Güncellemeler için sitemizi %link% takip edin %end_link% '
 
 # Desc: Log in
-'Log in': 'Log in'
+'Log in': 'Giriş yap'
 
 # Desc: Message sent
-'Message sent': 'Message sent'
+'Message sent': 'Mesajının göderildi'
 
 # Desc: Most Viewed Compositions
-'Most Viewed Compositions': 'Most Viewed Compositions'
+'Most Viewed Compositions': 'En çok gösterilen kompozisyonlar'
 
 # Desc: Name
 Name: Name
 
 # Desc: New Skin
-'New Skin': 'New Skin'
+'New Skin': 'Yeni ....'
 
 # Desc: Next tip
-'Next tip': 'Next tip'
+'Next tip': 'Sıradaki taktik'
 
 # Desc: No data available
-'No data available': 'No data available'
+'No data available': 'Geçerli bir girdi yok'
 
 # Desc: No data recorded for this graph
-'No data recorded for this graph': 'No data recorded for this graph'
+'No data recorded for this graph': 'Bu diyagram (grafik) için girdi kaydedlimedi '
 
 # Desc: No impressions for this timespan
-'No impressions for this timespan': 'No impressions for this timespan'
+'No impressions for this timespan': 'Bu bilgi için hiç kalıntı bunlunmuyor'
 
 # Desc: No special characters allowed
-'No special characters allowed': 'No special characters allowed'
+'No special characters allowed': 'Özel karakterler için izin verilemiyor'
 
 # Desc: Not available yet
-'Not available yet': 'Not available yet'
+'Not available yet': 'Hata Kodu: Şimdilik açılamıyor'
 
 # Desc: Now copy this embed code and add it to one of your websites in the %settings% page
 'Now copy this embed code and add it to one of your websites in the %settings% page': 'Now copy this embed code and add it to one of your websites in the %settings% page'
 
 # Desc: Other platform
-'Other platform': 'Other platform'
+'Other platform': 'Başka platform'
 
 # Desc: Page
 Page: Page
 
 # Desc: Password must be at least 6 characters
-'Password must be at least 6 characters': 'Password must be at least 6 characters'
+'Password must be at least 6 characters': 'Şifreniz en az 6 karakterden oluşmalıdır'
 
 # Desc: Password too long
-'Password too long': 'Password too long'
+'Password too long': 'Şifreniz çok uzun'
 
 # Desc: Photo
 Photo: Photo
 
 # Desc: Please %link% log in %end_link%
-'Please %link% log in %end_link%': 'Please %link% log in %end_link%'
+'Please %link% log in %end_link%': 'Lütfen %link% giriş yapın %end_link%'
 
 # Desc: Please check for errors
-'Please check for errors': 'Please check for errors'
+'Please check for errors': 'Lütfen hatalar izin bakın'
 
 # Desc: Please check your email to activate your account
-'Please check your email to activate your account': 'Please check your email to activate your account'
+'Please check your email to activate your account': 'Lütfen hesabınızı aktif etmek için e-posta nızı kontrol edin'
 
 # Desc: Preset
 Preset: Preset
 
 # Desc: Preview the widget
-'Preview the widget': 'Preview the widget'
+'Preview the widget': 'Widgetinizin nasıl göründüğüne bakın'
 
 # Desc: Remove
 Remove: Remove
@@ -161,13 +161,13 @@ Remove: Remove
 Resend: Resend
 
 # Desc: Save changes
-'Save changes': 'Save changes'
+'Save changes': 'Değişiklikleri kaydet'
 
 # Desc: Saving changes
-'Saving changes': 'Saving changes'
+'Saving changes': 'Değişiklikler kaydediliyor'
 
 # Desc: Select a Skin
-'Select a Skin': 'Select a Skin'
+'Select a Skin': 'Bir skin seç'
 
 # Desc: Send
 Send: Send
@@ -179,7 +179,7 @@ Sending: Sending
 Settings: Settings
 
 # Desc: Skin name has been successfully changed
-'Skin name has been successfully changed': 'Skin name has been successfully changed'
+'Skin name has been successfully changed': 'Skin isminiz başarıyla değiştirildi '
 
 # Desc: Skins
 Skins: Skins
